@@ -1,0 +1,14 @@
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\bin\Debug\net8.0\SistemaCelular.exe
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\bin\Debug\net8.0\SistemaCelular.deps.json
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\bin\Debug\net8.0\SistemaCelular.runtimeconfig.json
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\bin\Debug\net8.0\SistemaCelular.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\bin\Debug\net8.0\SistemaCelular.pdb
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.AssemblyInfoInputs.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.AssemblyInfo.cs
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.csproj.CoreCompileInputs.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\refint\SistemaCelular.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.pdb
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\SistemaCelular.genruntimeconfig.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\XP\Projetos\SistemaCelular\obj\Debug\net8.0\ref\SistemaCelular.dll
